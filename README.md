@@ -4,6 +4,6 @@ Techniques used:
 1. linked list
 2. array
 
-The system developed by MSR.
+The system developed by Sanskar , Rajat and Manas.
 
 PIN TO ACESS IT IS : MSR@123
